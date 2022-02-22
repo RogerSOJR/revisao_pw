@@ -45,7 +45,7 @@
 					href="#"
 					onclick="troca('sobrenos', 'principal', 'acordao')"
 					>
-					<img src="img/logo-carro.jpg" alt="" width="30" height="30" class="d-inline-block align-text-top"/>
+					<img src="img/logo-carro.png" alt="" width="30" height="30" class="d-inline-block align-text-top"/>
 					Início</a
 				>
 				<button
